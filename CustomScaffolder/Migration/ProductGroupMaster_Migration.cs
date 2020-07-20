@@ -1,0 +1,2 @@
+Add-Migration ProductGroupMaster_Added
+Update-Database

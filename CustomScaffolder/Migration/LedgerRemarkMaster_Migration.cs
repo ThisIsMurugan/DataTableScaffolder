@@ -1,0 +1,2 @@
+Add-Migration LedgerRemarkMaster_Added
+Update-Database
